@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Defs\ThingDefs_Misc\Items_DCS.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="BloodBag"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="ProteinPowder"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="ProgrammedMemoryDisk"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="TrainedMechanites"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="AntisepticCorpse"]/tradeTags</xpath>
+  </Operation>
+  <!-- Defs\ThingDefs_Buildings\Buildings_DCS.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="CorpseIrrigator"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[@Name="DCS_GrowerBase"]/researchPrerequisites</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="MaggotsBreeder"]/researchPrerequisites</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="Crucifix_DCS"]/researchPrerequisites</xpath>
+  </Operation>
+  <!-- Defs\ThingDefs_Buildings\Buildings_DCSservers.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[@Name="DCS_CorpseServer"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="HandyCorpse"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities/li[text()="HandyCorpse"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="CorpseButcher"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities/li[text()="CorpseButcher"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="MeatGrinderDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities/li[text()="MeatGrinderDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="StoneSawerDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities/li[text()="StoneSawerDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="InspirationBulb"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities/li[text()="InspirationBulb"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="DeathMonitor"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities/li[text()="DeathMonitor"]</xpath>
+  </Operation>
+  <!-- Defs\ResearchDefs\ResearchProjects_DCS.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseRefinement"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseSculpture"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseFarm"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseIrrigator"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseMedicine"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseAntisepsis"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="BrainScanning"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="CorpseServers"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="IntelligentServers"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="PsychicInterference"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="MemoryModification"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="KnowledgeInfusion"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="MechaniteTraining"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="MechaniteApplication"]</xpath>
+  </Operation>
+  <!-- Defs\ResearchDefs\ResearchTabs_DCS.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchTabDef[defName="CorpseTech"]</xpath>
+  </Operation>
+  <!-- Defs\RecipeDefs\Recipes_DCS.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeChemfuelFromCorpse"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="MakeFertilizerFromCorpse"]/workAmount</xpath>
+    <value>
+      <workAmount>1750</workAmount>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="MakeFertilizerFromCorpse"]/workSkill</xpath>
+    <value>
+      <workSkill>Cooking</workSkill>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="MakeFertilizerFromCorpse"]/recipeUsers</xpath>
+    <value>
+      <recipeUsers>
+        <li>TableButcher</li>
+      </recipeUsers>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeFertilizerFromCorpse"]/researchPrerequisite</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeProteinPowderFromCorpse"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeProteinPowderFromMaggots"]</xpath>
+  </Operation>
+  <!-- Defs\RecipeDefs\Recipes_DCSmedic.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="TakeBloodFromCorpse"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="ExperimentOnCorpse"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="MakeAntisepticCorpse"]/workAmount</xpath>
+    <value>
+      <workAmount>1150</workAmount>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="MakeAntisepticCorpse"]/products</xpath>
+    <value>
+      <products>
+        <AntisepticCorpse>1</AntisepticCorpse>
+      </products>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="MakeAntisepticCorpse"]/recipeUsers</xpath>
+    <value>
+      <recipeUsers>
+        <li>TableButcher</li>
+      </recipeUsers>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeAntisepticCorpse"]/researchPrerequisite</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeAntisepticCorpseBT"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeTrainedMechanites"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="TrainedMechanitesFromHealerSerum"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="FormAntisepticCorpses"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="AdvancedAnatomy"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeMechSerumHealerDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeMechSerumResurrectorDCS"]</xpath>
+  </Operation>
+  <!-- <Operation Class="PatchOperationRemove"> -->
+  <!-- <xpath>Defs/RecipeDef[defName="MakeMechSerumNeurotrainerDCS"]</xpath> -->
+  <!-- </Operation> -->
+  <!-- Defs\RecipeDefs\Recipes_DCSartifact.xml -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="ScanCorpseBrain"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="ReplicateMemoryDisk"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakePsychicInsanityLanceDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakePsychicShockLanceDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakePsychicSoothePulserDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakePsychicAnimalPulserDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeTechprofSubpersonaCoreDCS"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/RecipeDef[defName="MakeJoywireDCS"]</xpath>
+  </Operation>
+</Patch>

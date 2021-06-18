@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[Medieval]Dead Can Serve</name>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+  <packageId>Ogliss.CaptainSnafu.DeadCanServe.Medieval</packageId>
+  <author>CapatinSnafu</author>
+  <url>
+  </url>
+  <description>
+	
+	A Medieval Version for My Mod [Dead Can Serve].
+	Have removed all the modern or advanced techs of the original mod and make a little adjustment.
+	So medieval mod player can utilize corpse without something they can't use.
+	
+	Imcompatible with [Dead Can Serve].
+	
+	Things contain below:
+	
+	CorpseFertilizer
+	AntisepticCorpse
+	PlanterCoffin
+	Crucifix
+	MaggotsBreeder
+	LargeMaggots
+	
+	Check the description and screenshots in the complete version.
+	If you're not a medieval mod player, i recommend you to use the complete version.
+	</description>
+</ModMetaData>
