@@ -5,19 +5,28 @@
 Update of CapatinSnafus mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1776511809
 
-- Replaced the whole thing with patches that just removes all modern stuff. The mod now requires that https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555]Dead Can Serve [Adopted] is loaded before it
+- Replaced the whole thing with patches that just removes all modern stuff. The mod now requires that https://steamcommunity.com/sharedfiles/filedetails/?id=2548091455]Dead Can Serve (Continued) is loaded before it
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/MedievalDeadCanServe]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
 A Medieval Version for My Mod [Dead Can Serve].
 	Have removed all the modern or advanced techs of the original mod and make a little adjustment.
-	So medieval mod player can utilize corpse without something they can't use.
+	So medieval mod player can utilize corpse without something they can&apos;t use.
 	
-	# Imcompatible with [Dead Can Serve].
-
+	[strike]# Imcompatible with [Dead Can Serve].
+[/strike]
 	
 	Things contain below:
 	
@@ -30,10 +39,10 @@ A Medieval Version for My Mod [Dead Can Serve].
 	LargeMaggots
 	
 	Check the description and screenshots in the complete version.
-	# If you're not a medieval mod player, i recommend you to use the complete version:
+	# If you&apos;re not a medieval mod player, i recommend you to use the complete version:
 
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1735705268
+https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
 
