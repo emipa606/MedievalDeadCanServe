@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[Medieval]Dead Can Serve (Continued)</name>
   <packageId>Mlie.MedievalDeadCanServe</packageId>
@@ -20,25 +20,29 @@
   <loadAfter>
     <li>Mlie.DeadCanServe</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of CapatinSnafus mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1776511809
 
 - Replaced the whole thing with patches that just removes all modern stuff. The mod now requires that [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2548091455]Dead Can Serve (Continued)[/url] is loaded before it
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/MedievalDeadCanServe][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 A Medieval Version for My Mod [Dead Can Serve].
 	Have removed all the modern or advanced techs of the original mod and make a little adjustment.
-	So medieval mod player can utilize corpse without something they can&apos;t use.
+	So medieval mod player can utilize corpse without something they can't use.
 	
 	[strike][h1]Imcompatible with [Dead Can Serve].[/h1][/strike]
 	
@@ -53,11 +57,11 @@ A Medieval Version for My Mod [Dead Can Serve].
 	LargeMaggots
 	
 	Check the description and screenshots in the complete version.
-	[h1]If you&apos;re not a medieval mod player, i recommend you to use the complete version:[/h1]
+	[h1]If you're not a medieval mod player, i recommend you to use the complete version:[/h1]
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
