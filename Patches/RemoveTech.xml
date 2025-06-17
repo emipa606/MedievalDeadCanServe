@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <!-- Defs\ThingDefs_Misc\Items_DCS.xml -->
   <Operation Class="PatchOperationRemove">
